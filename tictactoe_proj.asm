@@ -1,4 +1,4 @@
-IDEAL
+IDEAL ; Made by Tom Ronen - 2019
 MODEL small
 STACK 100h
 DATASEG
