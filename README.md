@@ -3,4 +3,4 @@
 Developed during an educational project at school.
 game against AI, two levels:
 1. AI places the circle on a random square on the board.
-2. AI play defence, when the user complete two X on the board, the AI will recognise it and protect itself.
+2. AI plays defence, when the user complete two X on the board, the AI will recognise it and protect itself.
